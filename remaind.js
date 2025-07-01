@@ -23,8 +23,8 @@ client.on('ready', () => {
         `4> 📌 Kiểm tra log time trên [Jira](https://r1repo.atlassian.net/plugins/servlet/ac/com.tda.timesheet.report/main?project.key=IPLATBILL&project.id=10013)\n` +
         `5> 📌 Link [Jinken](http://192.168.0.232:8080/)\n` +
         `6> 📌 Khi xong task thì nhớ update status trên [Redmine](http://35.73.146.111:4000/projects/cis/issues)\n\n\n`
-);
-
+      );
+      console.log(`✅ Tin nhắn đã được gửi thành công [${new Date()}]!`);
     } else {
       console.error('❌ Không tìm thấy kênh để gửi tin nhắn.');
     }
