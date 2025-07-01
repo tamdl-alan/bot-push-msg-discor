@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "discor-send-message",
+  "private_key_id": "e72567e58313dc968bf8616b89ee108fd69b89a5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDIWFzwPP8rCMv/\nuE3Gd+d6fkSPp2MTMEAyxdhWH6S+tOrPey7oI9ae37eM8ZkRfc6snxfCzAtuDUyJ\nphwqe0qeRltZpiDVHNQVm+CIlT855ktwco5ZVRRSsXV3oPeWrsYhOj4GLbr7/f9c\nh6TTHrj1Xwsh977n1KzFTKZt8TnRnsJ9+Ji5E/CVJnPtYaymmjgqaBI3gzst+km4\nsNuHIPbgOw3n5Viypgs6i/tlpWAEBRtoSi2ljFMu3Vwbgk4cpplaUFxIEJisDGlx\nEsuwmdqFTpLPE/1sHT2TSSKNpQKwYFGHFLSDFR+RWy5Gdo1vxGUxMtsRKyJBVAg8\nyXK4VO21AgMBAAECggEABmrrcMRXv7hF17YrG6IZkqfnMmoT1OTLSkjEslouc1I4\n/uVQi9kOqZun2F8W3pTW6wvUh15+wnedIWKXiuxehZTiOxYOm0POzHt7wqCbIRO4\nDDvRCZpihQGcpGr1fUFPc9oIMPxmagRL3otGRkRCym1kyo30wXaeoW3z4D+i+sef\nQQZ9vZR6y8UZpCck+U+h0XZ/UIFL8TJtxkYk0yMMYUVE8ajGBJE6GwbTe7lPcp8k\nu3dWX6UECawJ2ui3ECD6r4NNV3Cl4/GupWh7kWsbcpKymMYfm323o/E1eEQyDlwq\nCsuvNgF2P3dTuBoh9peZl3ksmD9iJ2caokh9DpYIowKBgQD/3+laLitsM+I9E15t\n22EAsTjbJ1uo+l1On/srf/sCgnbRsFkCstoYsjixA7uVQPUCzwfVNTC9ywBA6vX+\nOPOsbH99rttDM4c0RAOsAEG7Pto68SWyFCF9//u18zE6yEzE/c4kfXSM2Hmg2EE3\nb0esnqEP4z9jH061gOYkpPF6mwKBgQDIcXzbbphrqSoT6Fkr2x6SDRmaIveUOUyd\nW9qU/iUIgkeRy/HZtRdJc5ISMsPtOUjcBtNZp+SH+OWEVrxZ/gFZEdZf7AqjFxV8\n4G9o7D5e/xdEImmPX662HpRUoWpptozVO6oOw1DzfOKvAst8g1j0jM96oIHr9XdX\nAGoHa2pV7wKBgQCjKOamCJbL0nHLPFSUfLVoOZnltT0vjSZ+gmkpHdyzhvm5UFgR\n7nZAFTUtOxIcZGVXuyhlfhtsisvImYru5uYK5syNGjjaqzrlyxEEVs2TVsrVlvvQ\niCGrNNYO+dpEf4DkhGs0vYLaZRd5xywe6yirHCPb+65pyIbqGh2m9D6/TQKBgQCF\n9tuE6Mi0A86cmYind/5ZjKnUy5P+m8Ep1o8jTyw/IJtmxRCx+YdDzxsMUKOD8+pP\nK7yryjtB6Ua0iSe/WbVa60IEwARn9fClknbDgEk7QnAxWHKGoWNqUsu+OFefqaM8\njHDfBwkegxQZ9ds8L6kPYOD2SzoqEtec7SjwJolePwKBgD2MmJR7RAG0QwCkTs8S\nZ05/BH+OPrKzjPGaT6LQmqsd6HEbdXGYxpl88RQpglXt8yxh0plDUqOcCXYO19JD\niHX37w8CjrSpeiCrOp6KQGDMM8T/Q47c+oxS6+KITFff/ACLtbwww8GEvJtDQRsG\n85JqmSqgMh0pmXxM67xFQGQl\n-----END PRIVATE KEY-----\n",
+  "client_email": "tamdl-discor-send-message@discor-send-message.iam.gserviceaccount.com",
+  "client_id": "112702017075636466593",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tamdl-discor-send-message%40discor-send-message.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
