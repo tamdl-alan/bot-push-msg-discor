@@ -10,7 +10,7 @@ client.on('ready', () => {
   console.log(`Bot is online as ${client.user.tag}`);
 
   // Lên lịch gửi tin nhắn lúc 16h mỗi ngày
-  schedule.scheduleJob('* * * * * *', () => {
+  schedule.scheduleJob('* * * * *', () => {
     const channel = client.channels.cache.get(channelId);
     if (channel) {
       channel.send(
