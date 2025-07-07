@@ -1,0 +1,8 @@
+services:
+  - type: cron
+    name: daily-discord-reminder
+    schedule: "every day at 11:00" # 11:00 UTC = 18:00 VN (UTC+7)
+    env: node
+    plan: starter
+    buildCommand: "npm install"
+    startCommand: "node remaind.js"
