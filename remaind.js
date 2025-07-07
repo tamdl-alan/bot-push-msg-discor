@@ -11,7 +11,10 @@ client.on('ready', () => {
 
   // Lên lịch gửi tin nhắn lúc 16h mỗi ngày
   // 0 17 * * 1-5
-  schedule.scheduleJob(process.env.CRON_SCHEDULE || '* * * * *', () => {
+  schedule.scheduleJob({
+     rule: process.env.CRON_SCHEDULE || '* * * * *',
+     tz: 'Asia/Ho_Chi_Minh',
+  }, () => {
     const channel = client.channels.cache.get(channelId);
     if (channel) {
       channel.send(
